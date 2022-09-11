@@ -1,2 +1,2 @@
 putting meetind
-hello learning pull and fork
+hello learnig pull and fork , Modifying for checking git status
