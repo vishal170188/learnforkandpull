@@ -1,4 +1,8 @@
 
+putting meeting
+hello learning pull and fork from Jags
+=======
+
 
 hello learn
 This is a sample text file
@@ -9,3 +13,4 @@ adding new line
 error finding
 agian error
 Sankesh
+jags code 
