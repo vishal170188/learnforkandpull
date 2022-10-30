@@ -1,3 +1,5 @@
+This is a sample text file
+hello learning pull and fork
 putting meetind
 hello learning pull and fork 
 adding new line
