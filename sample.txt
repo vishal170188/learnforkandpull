@@ -1,12 +1,10 @@
-
 putting meeting
-hello learning pull and fork from Jags
-=======
-
-
+hello learning pull and fork from Jag
 hello learn
 This is a sample text file
 hello learning pull and fork
+My name is anki kumar
+=======
 putting meetind
 hello learning pull and fork 
 adding new line
@@ -14,3 +12,4 @@ error finding
 agian error
 Sankesh
 jags code 
+ankit gupta code 
